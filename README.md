@@ -1,5 +1,8 @@
 🌟 Project Spotlight: ATLIQ'S HR Analytics on Employee Attendance 🌟
 
+You can view this dashboard  ( sign in first ) :
+https://app.powerbi.com/links/OAVslBJJx5?ctid=dafff7d0-b7a7-4d5d-8705-06ac04774b74&pbi_source=linkShare
+
 Thrilled to share my latest project where I delved into HR analytics for an Indian company, analyzing three months of employee attendance data (April, May, June). This journey involved transforming raw data into actionable insights, and the results were eye-opening!
 
 🔍 Key Insights Uncovered:
