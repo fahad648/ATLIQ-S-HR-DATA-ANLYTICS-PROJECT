@@ -3,6 +3,9 @@
 You can view this dashboard  ( sign in first ) :
 https://app.powerbi.com/links/OAVslBJJx5?ctid=dafff7d0-b7a7-4d5d-8705-06ac04774b74&pbi_source=linkShare
 
+<img width="581" alt="DASHBOARD" src="https://github.com/user-attachments/assets/a1de2c47-a5ca-4682-aa74-6dc1e80a1482" />
+
+
 Thrilled to share my latest project where I delved into HR analytics for an Indian company, analyzing three months of employee attendance data (April, May, June). This journey involved transforming raw data into actionable insights, and the results were eye-opening!
 
 🔍 Key Insights Uncovered:
@@ -21,5 +24,8 @@ The purpose of choosing and doing this project was to get acquainted with the HR
 This project has been a rewarding experience, showcasing the power of data in enhancing HR strategies and understanding employee behaviors.
 
 Excited to leverage these insights for better workforce management and continue exploring the dynamic field of HR analytics!
+
+
+
 
 #HRAnalytics #DataScience #EmployeeInsights #WorkforceManagement #ProfessionalGrowth #PowerBI
